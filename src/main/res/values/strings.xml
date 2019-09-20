@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">⏩⏪ aktiviteetista_toiseen_1</string>
+    <string name="button1">Siirry toiseen aktiviteettiin...</string>
+    <string name="button2">Palaa ensimmäiseen aktiviteettiin...</string>
+    <string name="teksti1">Aktiviteetti 1.</string>
+    <string name="teksti2">Aktiviteetti 2.</string>
+</resources>
+
